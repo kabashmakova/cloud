@@ -1,0 +1,9 @@
+C:\Users\Гость\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\Гость\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\Гость\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.Form1.resources
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\Гость\source\repos\calc\calc\obj\Debug\calc.pdb
